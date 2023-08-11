@@ -1,0 +1,17 @@
+.gradle
+build/
+
+# IntelliJ IDEA
+.idea
+
+# Visual Studio Code
+.vscode/
+
+# Mac OS
+.DS_Store
+
+#!gradle/wrapper/gradle-wrapper.jar
+#!**/src/main/**/build/
+#!**/src/test/**/build/
+#!**/src/main/**/out/
+#!**/src/test/**/out/
