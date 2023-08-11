@@ -23,5 +23,5 @@ kotlin {
 }
 
 application {
-    mainClass.set("MainKt")
+    mainClass.set("ahlers.learn.kotlin.HelloWorldKt")
 }
