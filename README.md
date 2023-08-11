@@ -2,9 +2,11 @@
 
 ## Topics
 
-Following the [_By Example_](https://play.kotlinlang.org/byExample) guide, this project has personal examples of these subjects, with completion status.
+Completion status of topics represented in this project.
 
-### Introduction
+### [_By Example_](https://play.kotlinlang.org/byExample)
+
+#### Introduction
 
 - [x] Hello World
 - [x] Functions
@@ -14,7 +16,7 @@ Following the [_By Example_](https://play.kotlinlang.org/byExample) guide, this 
 - [ ] Generics
 - [ ] Inheritance
 
-### Control Flow
+#### Control Flow
 
 - [ ] When
 - [ ] Loops
@@ -22,20 +24,20 @@ Following the [_By Example_](https://play.kotlinlang.org/byExample) guide, this 
 - [ ] Equality Checks
 - [ ] Conditional Expression
 
-### Special Classes
+#### Special Classes
 
 - [ ] Data Classes
 - [ ] Enum Classes
 - [ ] Sealed Classes
 - [ ] Object Keyword
 
-### Functional
+#### Functional
 
 - [ ] Higher-Order Functions
 - [ ] Lambda Functions
 - [ ] Extension Functions and Properties
 
-### Collections
+#### Collections
 
 - [ ] `List`
 - [ ] `Set`
@@ -63,12 +65,12 @@ Following the [_By Example_](https://play.kotlinlang.org/byExample) guide, this 
 - [ ] `apply`
 - [ ] `also`
 
-### Delegation
+#### Delegation
 
 - [ ] Delegation Pattern
 - [ ] Delegated Properties
 
-### Productivity Boosters
+#### Productivity Boosters
 
 - [x] Named Arguments
 - [x] String Templates
