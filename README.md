@@ -39,11 +39,11 @@ Completion status of topics represented in this project.
 
 #### Collections
 
-- [ ] `List`
+- [x] `List`
 - [ ] `Set`
 - [ ] `Map`
-- [ ] `filter`
-- [ ] `map`
+- [x] `filter`
+- [x] `map`
 - [ ] `any`, `all`, `none`
 - [ ] `find`, `findLast`
 - [ ] `first`, `last`
