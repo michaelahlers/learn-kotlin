@@ -4,7 +4,7 @@
 
 Completion status of topics represented in this project.
 
-### [_By Example_](https://play.kotlinlang.org/byExample)
+### [_Kotlin By Example_](https://play.kotlinlang.org/byExample)
 
 #### Introduction
 
