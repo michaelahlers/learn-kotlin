@@ -76,3 +76,7 @@ Completion status of topics represented in this project.
 - [x] String Templates
 - [ ] Destructuring Declarations
 - [ ] Smart Casts
+
+### [_Kotlin Hands-On](https://play.kotlinlang.org/hands-on/overview)
+
+- [ ] [Coroutines and channels](https://kotlinlang.org/docs/coroutines-and-channels.html)
