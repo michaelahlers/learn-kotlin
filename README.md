@@ -57,7 +57,7 @@ Completion status of topics represented in this project.
 - [ ] `zip`
 - [ ] `getOrElse`
 
-### Scope Functions
+#### Scope Functions
 
 - [ ] `let`
 - [ ] `run`
